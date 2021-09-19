@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inyCation
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me - My insta - @iny_cation_1st
 
 <!---
